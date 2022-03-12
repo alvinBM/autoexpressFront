@@ -1,0 +1,10 @@
+.boisson{
+    padding: 10px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+}

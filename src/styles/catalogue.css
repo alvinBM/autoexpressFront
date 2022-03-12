@@ -1,0 +1,15 @@
+.catalogue{
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+}
+
+.produit {
+    width: 20%;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}

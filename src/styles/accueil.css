@@ -1,0 +1,21 @@
+.title{
+    color: brown;
+}
+
+.accueil{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 100%;
+}
+
+.accueil .form{
+    background-color: rgb(173, 173, 173);
+    flex: 1;
+    padding: 50px;
+}
+
+.accueil .panier{
+    flex: 2;
+    padding: 50px;
+}

@@ -1,0 +1,28 @@
+.menu{
+    background-color: rgb(20, 82, 175);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menu .link{
+    padding-left: 50px;
+    font-size: 20px;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+
+.label-panier{
+    background-color: #fff;
+    color: black;
+    border-radius: 50%;
+    height: 30px !important;
+    width: 30px !important;
+    padding: 10px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
